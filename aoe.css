@@ -1,0 +1,71 @@
+.principal {
+display:inline-block;
+background:#c20;
+padding:40px;
+padding-left:340px;
+padding-right:340px;
+border:20px groove #b66;
+}
+
+.pagina2 {
+display:inline-block;
+background:#444;
+padding:100px;
+padding-left:208px;
+padding-right:208px;
+border:20px groove #a22;
+}
+
+h1 {
+font-size:70px;
+font-weight:600;
+font-family:fantasy;
+}
+
+h1:hover {
+  background-color: #ff0;
+  transform:rotate(50000deg);  
+  transition-duration:8s;
+}
+
+h2 {
+font-size:60px;
+font-weight:400;
+font-family:fantasy;
+font-style:italic;
+color:#baa;
+}
+h3 {
+font-size:50px;
+font-weight:300;
+font-family:fantasy;
+color:#afa;
+}
+p
+{
+
+
+}
+
+#imgum {
+border:8px groove #f75 ;
+height:300px;
+width:400px;
+
+}
+
+.li {
+font-size:20px;
+padding:10px;
+
+}
+.pagina2:hover {
+  background-color: #ff0;
+  transform:rotate(50000deg);  
+  transition-duration:8s;
+}
+
+#imgois {
+border:8px groove #f75 ;
+height: 800px;
+width:400px;
